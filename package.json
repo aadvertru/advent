@@ -1,0 +1,14 @@
+{
+  "name": "advent-calender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/depositProfit.js",
+  "scripts": {
+    "start": "node src/depositProfit.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
